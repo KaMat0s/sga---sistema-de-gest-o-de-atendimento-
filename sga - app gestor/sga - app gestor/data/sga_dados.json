@@ -1,0 +1,29 @@
+{
+  "fila": [
+    {
+      "senha": "N001",
+      "nome": "Ana Silva",
+      "servico": "Corte de cabelo",
+      "prioridade": "normal",
+      "horario_chegada": "2026-05-15T19:54:06.076884",
+      "horario_atendimento": null,
+      "atendido": false
+    }
+  ],
+  "historico": [
+    {
+      "senha": "P001",
+      "nome": "Maria Santos",
+      "servico": "Manicure",
+      "prioridade": "gestante",
+      "horario_chegada": "2026-05-15T19:54:06.076896",
+      "horario_atendimento": "2026-05-15T19:54:06.076905",
+      "atendido": true
+    }
+  ],
+  "contadores": {
+    "N": 1,
+    "P": 1,
+    "E": 0
+  }
+}
